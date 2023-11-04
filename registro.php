@@ -13,8 +13,6 @@
 
 <body>
 
-Alex Yesid
-
 
     <div class="login">
 
