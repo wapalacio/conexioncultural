@@ -1,0 +1,114 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(img/FONDO-LOGIN.png);   
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+h3{
+  margin-top: 90px;
+  margin-left: 40px;
+}
+
+.ne{
+  font-weight: 600;
+}
+
+.fa-solid{
+  margin-left: 90%;
+}
+.fa{
+  margin-left: 90%;
+}
+
+.card{
+  margin: 0;
+  padding: 0;
+  background: url(img/LOGIN.png); 
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+.card {
+    width: 340px;
+    height: 500px;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    box-shadow: 0 4px 8px 0 ;
+		-webkit-box-shadow: 0 8px 10px 0 black ;
+		-moz-box-shadow: 0 8px 10px 0 black;
+		border-radius: 50px;
+    border: 0;
+  }
+  
+  
+  .login label {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+  }
+  
+  .login .input1 {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .login .input2 {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .login input {
+    width: 70%;
+    margin-bottom: 0px;
+  }
+  
+  .re{
+    margin-top: -120px;
+  }
+
+  .login input[type="text"],  .login input[type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 50px;
+    color: #fff;
+    font-size: 16px;
+  }
+  
+  .login input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background:rgba(0, 255, 170, 0.692);
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-top: 60px;
+  }
+
+  .input1{
+    margin-top: -22px;
+  }
+  .input2{
+    margin-top: -19px;
+  }
+
+  .login a {
+    font-size: 12px;
+    line-height: 100px;
+    color: #c4bebe;
+  }
+  
+  .login a:hover {
+    color:black;
+  }
